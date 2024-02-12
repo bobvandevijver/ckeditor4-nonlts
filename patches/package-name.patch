@@ -1,0 +1,11 @@
+diff --git orig/package.json dist/package.json
+index a1db2dd..a637548 100644
+--- orig/package.json
++++ dist/package.json
+@@ -1,5 +1,5 @@
+ {
+-  "name": "ckeditor4",
++  "name": "ckeditor4-nonlts",
+   "version": "4.24.0",
+   "description": "JavaScript WYSIWYG web text editor.",
+   "main": "ckeditor.js",
